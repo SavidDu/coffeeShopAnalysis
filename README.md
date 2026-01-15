@@ -1,22 +1,20 @@
-# coffeeShopAnalysis
+# Coffee Shop Analysis
 
 ## Project Overview
 
-This portfolio project tells the story of a coffee retail business that wants to better understand **what is driving its sales and profits**, and how data can support smarter decisions around products, pricing, and expansion.
+The goal of this project is to help a new small business understand how it is performing. Having operated for a few years the company would like to know it's general health, where the sales and profits are coming from, which products are doing well, and which geographical location need more attention.
 
-The dataset represents historical coffee orders, including product types, roast levels, sizes, customers, countries, sales revenue, and profit. Rather than starting with charts, the project starts with **business questions** and uses visualisations only where they help answer those questions.
-
+The dataset consists of three tables; orders, customers, and products.
+<!-- insert picture later -->
 ---
 
-## Business Context
+## Insights Summary
 
-The business is growing and selling multiple coffee products across regions. Leadership has three core concerns:
+To understand how the business;s needs the following metrics were chosen to explore:
 
-* Are we selling *more*, but not necessarily making *more profit*?
-* Which coffee products actually drive profitability?
-* Are customer preferences consistent across countries, or should offerings differ by market?
-
-To answer these, the business asks the analytics team to turn raw order data into insights they can act on.
+* Overall sales and profit growth
+* Product with the most sales and product with the most profits
+* Largest region by sales and profits
 
 ---
 
