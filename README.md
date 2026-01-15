@@ -18,6 +18,7 @@ To understand how the business;s needs the following metrics were chosen to expl
 
 ---
 
+<!--
 ## Key Business Questions and Why the Charts Matter
 
 ### 1. How are overall sales and profit trending?
@@ -131,3 +132,4 @@ This approach ensures insights are **actionable**, not just visually appealing.
 ---
 
 *This project emphasises turning data into decisions, not just dashboards.*
+-->
