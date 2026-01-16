@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-The goal of this project is to help a new small business understand how it is performing. Having operated for a few years the company would like to know it's general health, where the sales and profits are coming from, which products are doing well, and which geographical location need more attention.
+The goal of this project is to help a new small business understand how it is performing. Having operated for a few years the company would like to know it's general health, where the sales and profits are coming from, which products are doing well, and which geographical location need more attention. The business wants recommendations for which products should be given more focus on and steps it should take to grow.
+
+## Dataset Structure
 
 The dataset consists of three tables; orders, customers, and products.
 <!-- insert picture later -->
@@ -12,10 +14,32 @@ The dataset consists of three tables; orders, customers, and products.
 
 To understand how the business;s needs the following metrics were chosen to explore:
 
-* Overall sales and profit growth
-* Product with the most sales and product with the most profits
+* Overall Growth
+* Most Sold Product
+* Most Profitable Product
 * Largest region by sales and profits
 
+**Overall Growth**
+* During the first 2 years of operation the business saw a upwards growth of 13% in sales however in their latest year sales shrank by 49%.
+* Initial growth is expected as customer base expands and the business becomes established in the market.
+* Sudden decrease in sales can be attributed to the recession brought on by the COVID pandemic.
+
+**Most Sold Product**
+* Overall the most sold product is the Arabica bean in Dark roast and size 2.5kg.
+
+**Most profitable Product**
+* Overall the most profitable product is the Liberca bean in Dark Roast and Size 2.5kg.
+
+* This suggests that the core income for the company is repeat customers who have found their preferred product and order in bulk. This also suggests that the smaller sizes do not produce as much sales or profit and are low in popularity.
+
+**Largest region**
+* The largest region by far is the United States with 79% of sales and profits.
+* Interestingly the United Kingdom has higher profit percentage than sales
+
+
+##Recommendations
+<!-- Finish this monday -->
+Potential steps to solidfy this could be to offer discounts on large bulk orders and to ensure the stock is steady throughout the year.Recommend talking to the sales team to turn the products into gateway products to increase customer base.
 ---
 
 <!--
