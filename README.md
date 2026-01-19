@@ -39,6 +39,8 @@ To understand how the business;s needs the following metrics were chosen to expl
 
 ## Recommendations
 
+* **Overall growth**: Look into shifting the brand into a more essentials brand in the long term to negate the effects of market swings. Currently the business is vulnerable to market shifts heavily affecting the income.
+
 * **Large Size Products**: Focus on streamlining the large sized products and changing the role of the smaller sized products. The large sized products drive repeat purchasing and bulk ordering, ensure these products are always stocked and potentially look at giving discounts to repeat purchases or even offer a subscription model for predictable income. 
 
 * **Small Size Products**: Turn them into entry products, bundle together as samplers to help bring in more customers into the ecosystem. The small sized products are low in sale volume and profits, turning these into a different role allows for opportunities to bring in more customers.
