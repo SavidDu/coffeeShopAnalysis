@@ -46,12 +46,14 @@ To understand how the business;s needs the following metrics were chosen to expl
 * **Region**: The core of the customer base is in the United States of America. The product is fairly well established and efforts should be moved to expanding into other regions to reduce reliance on one region. Recommend discussion with the sales team into making tailored promotions into the UK and Ireland utilising the small sized products as samplers.
 * 
 
-##DashBoard
-
+## DashBoard
 
 ![dashboard Part 1]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png)
+
 ![dashboard Part 2]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png)
+
 ![dashboard Part 3]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png)
+
 
 <!-- insert link to the dashboard uploaded to github -->
 
