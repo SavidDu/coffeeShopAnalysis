@@ -50,8 +50,11 @@ To understand how the business;s needs the following metrics were chosen to expl
 
 
 ![dashboard Part 1]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%201.png))
+
 ![dashboard Part 2]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%202.png))
+
 ![dashboard Part 3]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%203.png))
+
 <!-- insert link to the dashboard uploaded to github -->
 
 
