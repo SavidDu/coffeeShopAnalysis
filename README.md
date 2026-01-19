@@ -7,7 +7,7 @@ The goal of this project is to help a new small business understand how it is pe
 ## Dataset Structure
 
 The dataset consists of three tables; orders, customers, and products.
-<!-- insert picture later -->
+![Table Diagram](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png)
 ---
 
 ## Insights Summary
