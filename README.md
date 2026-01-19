@@ -44,7 +44,7 @@ To understand how the business;s needs the following metrics were chosen to expl
 * **Small Size Products**: Turn them into entry products, bundle together as samplers to help bring in more customers into the ecosystem. The small sized products are low in sale volume and profits, turning these into a different role allows for opportunities to bring in more customers.
 
 * **Region**: The core of the customer base is in the United States of America. The product is fairly well established and efforts should be moved to expanding into other regions to reduce reliance on one region. Recommend discussion with the sales team into making tailored promotions into the UK and Ireland utilising the small sized products as samplers.
-* 
+
 
 ## DashBoard
 
