@@ -10,8 +10,6 @@ The dataset consists of three tables; orders, customers, and products.
 
 ![Table Diagram](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png)
 
----
-
 ## Insights Summary
 
 To understand how the business;s needs the following metrics were chosen to explore:
@@ -45,7 +43,15 @@ To understand how the business;s needs the following metrics were chosen to expl
 
 * **Small Size Products**: Turn them into entry products, bundle together as samplers to help bring in more customers into the ecosystem. The small sized products are low in sale volume and profits, turning these into a different role allows for opportunities to bring in more customers.
 
-* **Region**: The core of the customer base is in the United States of America. The product is fairly well established and efforts should be moved to expanding into other regions to reduce reliance on one region. Recommend discussion with the sales team into making tailored promotions into the UK and Ireland utilising the small sized products as samplers. 
----
+* **Region**: The core of the customer base is in the United States of America. The product is fairly well established and efforts should be moved to expanding into other regions to reduce reliance on one region. Recommend discussion with the sales team into making tailored promotions into the UK and Ireland utilising the small sized products as samplers.
+* 
+
+##DashBoard
+
+
+![dashboard Part 1]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%201.png))
+![dashboard Part 2]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%202.png))
+![dashboard Part 3]([https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/Table%20diagram.png](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%203.png))
+<!-- insert link to the dashboard uploaded to github -->
 
 
