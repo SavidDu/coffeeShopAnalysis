@@ -25,10 +25,10 @@ To understand how the business;s needs the following metrics were chosen to expl
 * Sudden decrease in sales can be attributed to the recession brought on by the COVID pandemic.
 
 **Most Sold Product**
-* Overall the most sold product is the Arabica bean in Dark roast and size 2.5kg.
+* Overall the most sold product is the Arabica bean in Dark roast and size 2.5kg at 6% of all sales.
 
 **Most profitable Product**
-* Overall the most profitable product is the Liberca bean in Dark Roast and Size 2.5kg.
+* Overall the most profitable product is the Liberca bean in Dark Roast and Size 2.5kg at 7% of all profits.
 
 * This suggests that the core income for the company is repeat customers who have found their preferred product and order in bulk. This also suggests that the smaller sizes do not produce as much sales or profit and are low in popularity.
 
