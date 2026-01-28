@@ -55,8 +55,3 @@ The full interactive dashboard can be found ![here.](https://github.com/SavidDu/
 ![dashboard Part 1](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%201.png)
 ![dashboard Part 2](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%202.png)
 ![dashboard Part 3](https://raw.githubusercontent.com/SavidDu/Images/refs/heads/main/coffeeAnalysis/coffeeOrdersDataAnalysisPicPart%203.png)
-
-
-<!-- insert link to the dashboard uploaded to github -->
-
-
