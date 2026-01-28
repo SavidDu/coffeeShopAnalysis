@@ -12,7 +12,7 @@ The dataset consists of three tables; orders, customers, and products.
 
 ## Insights Summary
 
-To understand how the business;s needs the following metrics were chosen to explore:
+To understand the business's needs the following metrics were chosen to explore:
 
 * Overall Growth
 * Most Sold Product
